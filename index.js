@@ -1,4 +1,4 @@
 function getFirstSelector(selector){
-  document.querySelector(argument);
+  document.getElementById('app').querySelector(argument);
   return argument
 }
